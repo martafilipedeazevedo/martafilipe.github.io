@@ -46679,12 +46679,12 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 81px;
 }
 
 .u-header .u-text-1 {
-  margin-bottom: -30px;
-  margin-top: 20px;
+  font-family: "Courier Prime";
+  margin: 19px auto -27px 0;
 }
 
 
