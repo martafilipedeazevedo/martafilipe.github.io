@@ -29,6 +29,12 @@
   .u-section-1 .u-text-1 {
     font-size: 1rem;
   }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
 }.u-section-2 .u-sheet-1 {
   min-height: 1432px;
 }
@@ -159,14 +165,14 @@
 
   .u-section-2 .u-text-1 {
     width: 269px;
-    margin-top: 89px;
+    margin-top: 77px;
     margin-left: auto;
   }
 
   .u-section-2 .u-image-3 {
     width: 340px;
     height: 221px;
-    margin-top: 0;
+    margin-top: 12px;
   }
 
   .u-section-2 .u-image-4 {
@@ -177,14 +183,14 @@
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-top: 77px;
+    margin-top: 71px;
     margin-left: auto;
   }
 
   .u-section-2 .u-image-5 {
     width: 340px;
     height: 235px;
-    margin-top: 1px;
+    margin-top: 7px;
     margin-right: 0;
   }
 

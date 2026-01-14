@@ -1,0 +1,129 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 2095px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Courier Prime";
+  margin: 51px auto 0 92px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 450px;
+  height: 300px;
+  margin: 51px auto 0 11px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 450px;
+  height: 300px;
+  margin: -197px 120px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 450px;
+  height: 300px;
+  margin: 89px auto 0 92px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 450px;
+  height: 300px;
+  margin: 109px auto 0 92px;
+}
+
+.u-section-1 .u-image-5 {
+  width: 450px;
+  height: 300px;
+  margin: -120px 0 0 auto;
+}
+
+.u-section-1 .u-image-6 {
+  width: 450px;
+  height: 300px;
+  margin: 120px auto 60px 254px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-2 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-2 {
+    margin-right: 90px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-left: 90px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 90px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1967px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -142px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 227px;
+    margin-top: 43px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 227px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 227px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 227px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-5 {
+    height: 227px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-6 {
+    height: 227px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
