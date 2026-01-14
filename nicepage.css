@@ -46204,6 +46204,8 @@ a.u-link.u-text-hover-color-var:hover {
         
         
         
+        
+        
         }
 
         /** common-rules **/
@@ -46337,6 +46339,11 @@ a.u-link.u-text-hover-color-var:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         line-height: 1.6;
+        }
+        .u-body
+        {
+        background-image: linear-gradient(#ff05c1, #ff05c1);
+        background-attachment: fixed;
         }
         .u-input
         {
@@ -46689,7 +46696,14 @@ a.u-link.u-text-hover-color-var:hover {
 
 
 
-
+@media (max-width: 575px) {
+  .u-header .u-text-1 {
+    width: auto;
+    margin-top: 42px;
+    margin-bottom: -41px;
+    margin-left: 2px;
+  }
+}
  .u-footer {
   background-image: none;
 }
