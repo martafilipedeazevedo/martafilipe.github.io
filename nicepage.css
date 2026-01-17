@@ -45628,7 +45628,7 @@ a.u-link.u-text-hover-color-var:hover {
         .u-table-alt-custom-color-1 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: #ff0505;
+            background-color: #e60303;
 
         }
 
@@ -45638,7 +45638,7 @@ a.u-link.u-text-hover-color-var:hover {
         .u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #ff0505 !important;
+            background-color: #e60303 !important;
         }
 
         .u-button-style.u-custom-color-1:hover,
@@ -45653,7 +45653,7 @@ a.u-link.u-text-hover-color-var:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #ea0000 !important;
+            background-color: #cf0303 !important;
         }
 
         /* hover */
@@ -45671,7 +45671,7 @@ a.u-link.u-text-hover-color-var:hover {
         a.u-button-style.u-hover-custom-color-1[class*="u-border-"]:focus
         {
             color: #ffffff !important;
-            background-color: #ff0505 !important;
+            background-color: #e60303 !important;
         }
 
         /* active */
@@ -45688,11 +45688,11 @@ a.u-link.u-text-hover-color-var:hover {
         input.u-field-input.u-field-input.u-active-custom-color-1:checked
         {
             color: #ffffff !important;
-            background-color: #ff0505 !important;
+            background-color: #e60303 !important;
         }
 
         a.u-link.u-hover-custom-color-1:hover {
-            color: #ff0505 !important;
+            color: #e60303 !important;
         }
 
         
@@ -46023,14 +46023,14 @@ a.u-link.u-text-hover-color-var:hover {
         .u-border-custom-color-1.u-field-input.u-field-input,
         .u-separator-custom-color-1:after
         {
-            border-color: #ff0505;
-            stroke: #ff0505;
+            border-color: #e60303;
+            stroke: #e60303;
         }
 
         .u-button-style.u-border-custom-color-1
         {
-            border-color: #ff0505 !important;
-            color: #ff0505 !important;
+            border-color: #e60303 !important;
+            color: #e60303 !important;
             background-color: transparent !important;
         }
 
@@ -46038,7 +46038,7 @@ a.u-link.u-text-hover-color-var:hover {
         .u-button-style.u-border-custom-color-1:focus
         {
             border-color: transparent !important;
-            color: #ea0000 !important;
+            color: #cf0303 !important;
             background-color: transparent !important;
         }
 
@@ -46048,8 +46048,8 @@ a.u-link.u-text-hover-color-var:hover {
         a.u-button-style:hover > .u-border-hover-custom-color-1,
         a.u-button-style.u-border-hover-custom-color-1:focus
         {
-            color: #ff0505 !important;
-            border-color: #ff0505 !important;
+            color: #e60303 !important;
+            border-color: #e60303 !important;
         }
 
 
@@ -46060,18 +46060,18 @@ a.u-link.u-text-hover-color-var:hover {
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-1,
         input.u-field-input.u-field-input.u-border-active-custom-color-1:checked
         {
-            color: #ff0505 !important;
-            border-color: #ff0505 !important;
+            color: #e60303 !important;
+            border-color: #e60303 !important;
         }
 
         .u-link.u-border-custom-color-1[class*="u-border-"]
         {
-            border-color: #ff0505 !important;
+            border-color: #e60303 !important;
         }
 
         .u-link.u-border-custom-color-1[class*="u-border-"]:hover
         {
-            border-color: #ea0000 !important;
+            border-color: #cf0303 !important;
         }
         
         
@@ -46312,7 +46312,7 @@ a.u-link.u-text-hover-color-var:hover {
         a.u-button-style.u-text-custom-color-1,
         a.u-button-style.u-text-custom-color-1[class*="u-border-"]
         {
-            color: #ff0505 !important;
+            color: #e60303 !important;
             
             
             
@@ -46327,7 +46327,7 @@ a.u-link.u-text-hover-color-var:hover {
         a.u-button-style.u-button-style.u-text-custom-color-1.active,
         a.u-button-style.u-button-style.u-text-custom-color-1[class*="u-border-"].active
         {
-            color: #ea0000 !important;
+            color: #cf0303 !important;
         }
 
         /* hover */
@@ -46349,7 +46349,7 @@ a.u-link.u-text-hover-color-var:hover {
         .u-popupmenu-items.u-text-hover-custom-color-1 .u-nav-link:hover,
         .u-calendar-time-list .u-calendar-time-slot.u-text-hover-custom-color-1:hover
         {
-            color: #ff0505 !important;
+            color: #e60303 !important;
         }
 
         /* active */
@@ -46363,35 +46363,35 @@ a.u-link.u-text-hover-color-var:hover {
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-1 .u-nav-link.active,
         .u-calendar-time-list .u-calendar-time-slot.u-text-active-custom-color-1.u-active
         {
-            color: #ff0505 !important;
+            color: #e60303 !important;
         }
 
         .u-text-custom-color-1 .u-svg-link {
-            fill: #ff0505;
+            fill: #e60303;
         }
 
         .u-text-hover-custom-color-1:hover .u-svg-link,
         .u-text-hover-custom-color-1:focus .u-svg-link,
         .u-button-style:hover > .u-text-hover-custom-color-1 .u-svg-link
         {
-            fill: #ff0505;
+            fill: #e60303;
         }
 
         .u-text-active-custom-color-1:active .u-svg-link.u-svg-link,
         .u-button-style.u-button-style:active > .u-text-active-custom-color-1 .u-svg-link,
         .u-button-style.u-button-style.active > .u-text-active-custom-color-1 .u-svg-link
         {
-            fill: #ff0505;
+            fill: #e60303;
         }
 
         .u-link.u-text-custom-color-1:hover
         {
-            color: #ea0000 !important;
+            color: #cf0303 !important;
         }
 
         a.u-link.u-text-hover-custom-color-1:hover
         {
-            color: #ff0505 !important;
+            color: #e60303 !important;
         }
         
         
@@ -47383,6 +47383,11 @@ a.u-link.u-text-hover-color-var:hover {
   font-family: "Courier Prime";
   margin: 64px auto -26px 97px;
 }
+
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
     min-height: 430px;
@@ -47392,10 +47397,21 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-sheet-1 {
     min-height: 527px;
   }
+
+  .u-header .u-text-1 {
+    width: auto;
+    margin-top: 66px;
+    margin-bottom: 60px;
+    margin-left: -15px;
+  }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
     min-height: 407px;
+  }
+
+  .u-header .u-text-1 {
+    margin-left: -15px;
   }
 }
 @media (max-width: 575px) {
@@ -47404,8 +47420,9 @@ a.u-link.u-text-hover-color-var:hover {
   }
 
   .u-header .u-text-1 {
-    width: auto;
-    margin: 37px 26px 60px;
+    margin-top: 37px;
+    margin-left: 26px;
+    margin-right: 26px;
   }
 }
  .u-footer {
